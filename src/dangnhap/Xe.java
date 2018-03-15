@@ -19,6 +19,7 @@ public class Xe {
         System.out.println(xe2.Thongsochung());
         xe2.Thongsorieng2();
         System.out.println(xe2.bwm);
+        
     }
 
 }
